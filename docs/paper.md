@@ -4,7 +4,7 @@ ___
 ___
 
 #### Abstract
-> test
+> Social is an algorithmic stable coin for social influence, built off of UMA or Universal Market Access Protocols, CloutContracts, and on the Celo network. It is based off of quantitative algorithmic stabilization provided by a social coin's percieved cryptographic value. Social is a utility. How it works is by
 
 #### Project Summary
 > test
