@@ -19,7 +19,7 @@ ___
 > There are various usecases in regards to Social and possible technological integrations and applications. Some of these usecases include things such as Social as a utility or middleware, Social as a tool for algorithmic consensus, Social in regards to its utilization of market access data, and many others. Social eventually can be utilized as a metric in regards to percieved social influence value or percieved value of set amount of data. Over time, as more and more people utilize Social and CloutContracts becomes more and more popular, then the data points and percieved value of Social becomes more and more meaningful. The same concept applies in regards to usecases being built around or integrated with Social.
 
 #### Implementation
-> test
+> As of now, Social is conceptual. However,
 
 #### Technical Summary
 > test
