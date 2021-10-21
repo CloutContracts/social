@@ -21,7 +21,7 @@ ___
 > There are various usecases in regards to Social and possible technological integrations and applications. Some of these usecases include things such as Social as a utility or middleware, Social as a tool for algorithmic consensus, Social in regards to its utilization of market access data, and many others. Social eventually can be utilized as a metric in regards to percieved social influence value or percieved value of set amount of data. Over time, as more and more people utilize Social and CloutContracts becomes more and more popular, then the data points and percieved value of Social becomes more and more meaningful. The same concept applies in regards to usecases being built around or integrated with Social.
 
 #### Implementation
-> As of now, Social is conceptual. However,
+> As of now, Social is conceptual. However, alot has been done in regards to conceptualization and technology. Deterministic Oracles and trainable/mineable algorithms can potentially be a huge aspect in regards to scaling Social. Social as mentioned utilizes a light network, is based off of UWA, and is tied to CloutContracts through the data it is analyzing. This is fundemental in regards to building it effectively. Also, most notably is given that Social is highly scalable, the technological implementation needing to start off as light, is crucial. Eventually, if sidechains, updated consensus, or even hard forks need to be done, this may be feasible in the future if cryptographic transaction fees are too high.
 
 #### Technical Summary
 > test
