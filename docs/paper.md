@@ -33,7 +33,7 @@ ___
 > test
 
 ##### Disclaimer
-> *test*
+> *Please keep in mind that*
 
 ##### References
 > [1] https://umaproject.org/ \
