@@ -27,7 +27,7 @@ ___
 > Social is a utility and algorithmic stable coin centered around the concept of social influence. Establishing a hypthetical value for social influence in cryptographic form, can also be utilized with various decentralized, blockchain-based or community-centered social networks. Networks such as [Minds.com](https://minds.com) for example, 
 
 #### Impact
-> test
+> Most notably, Social does have the potential to
 
 #### Conclusion
 > test
