@@ -30,7 +30,7 @@ ___
 > Most notably, Social does have the potential to
 
 #### Conclusion
-> test
+> In conclusion, 
 
 ##### Disclaimer
 > *Please keep in mind that CloutContracts and Social are utilities. The technology presented in this paper is conceptual or "as-is". None of this is meant to or warrants investment advice or financial information. The primary purpose of this paper is for educational and entertainment purposes.*
