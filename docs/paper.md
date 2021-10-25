@@ -24,7 +24,7 @@ ___
 > As of now, Social is conceptual. However, alot has been done in regards to conceptualization and technology. Deterministic Oracles and trainable/mineable algorithms can potentially be a huge aspect in regards to scaling Social. Social as mentioned utilizes a light network, is based off of UWA, and is tied to CloutContracts through the data it is analyzing. This is fundemental in regards to building it effectively. Also, most notably is given that Social is highly scalable, the technological implementation needing to start off as light, is crucial. Eventually, if sidechains, updated consensus, or even hard forks need to be done, this may be feasible in the future if cryptographic transaction fees are too high.
 
 #### Technical Summary
-> Social is a(n) utility and algorithmic stable coin centered around the concept of social influence. Establishing a hypthetical value for social influence in cryptographic form, can also be utilized with various decentralized, blockchain-based or community-centered social networks. Networks such as [Minds.com](https://minds.com) for example, 
+> Social is a(n) utility and algorithmic stable coin centered around the concept of social influence. Establishing a hypthetical value for social influence in cryptographic form, can also be utilized with various decentralized, blockchain-based or community-centered social networks. Networks such as [Minds.com](https://minds.com) [[4]](https://minds.com) for example, can eventually implement values in social influence on user's profiles *(especially as more and more people implement CloutContracts as a utility)*. The same applies to other social networks as well, such as [Peepeth](https://peepeth.com/welcome) [[5]](https://peepeth.com/welcome). With more usage, comes more data that is implemented in a meaningful, and decentralized manner.
 
 #### Impact
 > Most notably, Social does have the potential to
@@ -38,6 +38,8 @@ ___
 ##### References
 > [1] https://umaproject.org/ \
 > [2] https://cloutcontracts.net \
-> [3] https://celo.org
+> [3] https://celo.org \
+> [4] https://minds.com \
+> [5] https://peepeth.com/welcome
 
 ___
