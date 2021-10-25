@@ -30,16 +30,16 @@ ___
 > Most notably, Social does have the potential to disrupt multiple industries. For starters, measuring social influence can let us model different predictive markers that could be of value. Doing so in a way that is privacy-preserving or decentralized and in the blockchain is also a plus. Social allows influence and human based decision making in regards to technological markets to be more in the hands of the people over centralized entities. Eventually, democratic consensus mechanisms can be formed. It goes way beyond just a stable coin in the cryptographic sense. The key aspect is the data behind it and the information being established over time. 
 
 #### Conclusion
-> In conclusion, 
+> In conclusion, Social is an algorithmic stable coin pegged to CloutContracts in regards to its market access data as a utility. Eventually being able to establish *x* value in social influence has many different usecases. Social will need to be built off of a large and scalable network that is also lightweight, Celo provides what may be quite a viable option.
 
 ##### Disclaimer
 > *Please keep in mind that CloutContracts and Social are utilities. The technology presented in this paper is conceptual or "as-is". None of this is meant to or warrants investment advice or financial information. The primary purpose of this paper is for educational and entertainment purposes.*
 
 ##### References
-> [1] https://umaproject.org/ \
-> [2] https://cloutcontracts.net \
-> [3] https://celo.org \
-> [4] https://minds.com \
-> [5] https://peepeth.com/welcome
+> [1] Universal market access. UMA. (n.d.). Retrieved October 25, 2021, from https://umaproject.org/.  \
+> [2] Cloutcontracts. Home. (n.d.). Retrieved October 25, 2021, from https://cloutcontracts.net/. \
+> [3] Mobile-first DEFI platform for fast, secure, and stable digital payments. Celo. (n.d.). Retrieved October 25, 2021, from https://celo.org/. \
+> [4] Minds. (n.d.). The Leading Alternative Social Network. Minds. Retrieved October 25, 2021, from https://minds.com/. \
+> [5] Microblogging with a soul (powered by blockchain). Peepeth. (n.d.). Retrieved October 25, 2021, from https://peepeth.com/welcome.
 
 ___
